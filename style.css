@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+  }
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    color: rgb(231, 234, 235);
+    text-align: center;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: rgb(231, 234, 235);
+    text-align: center;
+}
+
+.mb-3{
+    color: rgb(247, 206, 157);
+
+}
+
+.form-check{
+    color: rgb(138, 247, 187);
+}
+
+.contact-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.d-flex p-2{
+
+}
+
+.d-inline-flex p-2{
+    
+}
